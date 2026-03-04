@@ -1,7 +1,7 @@
 
 # LATEST RESEARCH
 
-## AI Privacy / Anonymity
+### AI Privacy / Anonymity
 - https://chat.openanonymity.ai | https://github.com/OpenAnonymity
 	- https://openanonymity.ai/blog/unlinkable-inference/
 - https://tinfoil.sh
@@ -10,11 +10,7 @@
 	- Vibe coded own anonymous self hosted AI
 
 
-## Biggest AI tools + Hidden harnesses
-- https://cursor.com
-
-
-## Spec Driven Development (SDD)
+### Spec Driven Development (SDD)
 - https://github.com/github/spec-kit
 	- The standard for AI SSD (spec driven development)
 - https://github.com/obra/superpowers
@@ -23,18 +19,13 @@
 	- SSD based IDE
 
 
-
-
-
-## Human Factor / Psychological / Future
+### Human Factor / Psychological / Future
 - https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it
 - https://x.com/zephyr_hg/status/2027309074396668174?s=12
 	- What will be worth $500 / hr in the future
 
 
-
-
-## Coding performance / Context Rot
+### Coding performance / Context Rot
 - https://www.morphllm.com/context-rot
 - https://www.mckinsey.com/capabilities/quantumblack/our-insights/one-year-of-agentic-ai-six-lessons-from-the-people-doing-the-work
 	- Agentic coding / setup lessons learned
@@ -51,7 +42,7 @@
 	
 
 
-## Agent Harnesses
+### Agent Harnesses
 - https://x.com/mntruell/status/2026736314272591924?s=12
 	- The third era of AI software dev — Cursor is a harness...
 - https://x.com/hxlfed14/status/2022984467380682856?s=12
@@ -68,22 +59,22 @@
 - https://developers.openai.com/api/docs/guides/structured-outputs/
 
 
-## AI Memory Layers
-	- https://github.com/Thinklanceai/agentkeeper
+### AI Memory Layers
+- https://github.com/Thinklanceai/agentkeeper
 
 
-## Agent OS'es
+### Agent OS'es
 - https://github.com/RightNow-AI/openfang
 
 
-## AI Assistants / Claws
+### AI Assistants / Claws
 - https://github.com/nullclaw/nullclaw
 - IronClaw
 - ZeroClaw
 - https://kilo.ai/kiloclaw
 
 
-## AI Research Papers
+### AI Research Papers
 - https://arxiv.org/abs/2405.15793
 	- Automate Software Engineering
 - https://lmcache.ai/
@@ -96,13 +87,13 @@
 	- Just repeating the prompt can improve reasoning
 	
 
-## AI Startup Solutions
+### AI Startup Solutions
 - https://www.cognee.ai
 	- Replaces RAG with far more advanced features, i.e. living knowledge graph
 - https://backgroundagents.dev
 
 
-## AI + Cybersecurity
+### AI + Cybersecurity
 - https://x.com/cyberracheal/status/2027693233321423107?s=12
 	- Bunch of tools. Goal is to have knowledge of every possible tool
 - https://www.anthropic.com/research/building-ai-cyber-defenders
@@ -112,7 +103,7 @@
 	- Security skills by trail of bits
 
 
-## AI Skills
+### AI Skills
 - https://github.com/nicobailon/visual-explainer
 	- Very cool looking visual HTML page creator to explain tech stuff
 - https://github.com/sickn33/antigravity-awesome-skills
@@ -123,19 +114,19 @@
 	- More than just skills, but skills too
 
 
-## AI Prompting Techniques
+### AI Prompting Techniques
 - https://pub.towardsai.net/the-socratic-prompt-how-to-make-a-language-model-stop-guessing-and-start-thinking-07279858abad
 	- Socratic prompting
 - https://gist.github.com/mberman84/885c972f4216747abfb421bfbddb4eba
 	- Premade prompts to build stuff
 	
 	
-## New Frontier AI Architectures
+### New Frontier AI Architectures
 - https://www.inceptionlabs.ai
 - https://www.bottlecapai.com
 
 
-## Interesting AI Tools / Sites / Products
+### Interesting AI Tools / Sites / Products
 - https://mint.gg
 	- Create any 3D space
 - https://sitdeck.com
@@ -145,7 +136,7 @@
 	
 	
 
-## Other Stuff
+### Other Stuff
 - https://signalstack.com/
 	- Turn any alerts into live trades
 - https://glint.trade/terminal
@@ -156,12 +147,13 @@
 	- Directory of cool LLM based apps
 	
 
----
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 # ENTERPRISE SOLUTIONS
 	
-## Agent Access Control + Tool Policy Gate Solution
-	https://www.cerbos.dev
-	https://www.cerbos.dev/tailscale-aperture
-	https://solutions.cerbos.dev/zero-trust-for-ai-securing-mcp-servers
+### Agent Access Control + Tool Policy Gate Solution
+- https://www.cerbos.dev
+- https://www.cerbos.dev/tailscale-aperture
+- https://solutions.cerbos.dev/zero-trust-for-ai-securing-mcp-servers
