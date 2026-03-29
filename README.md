@@ -1,6 +1,27 @@
 
 # LATEST RESEARCH
 
+
+
+
+
+### FRONT END DEV AI
+- https://www.magicpath.ai/
+
+
+### Harness
+- https://github.com/gsd-build/get-shit-done
+- https://x.com/gsd_foundation/status/2030361888681239003?s=12
+
+
+### Paper
+- https://arxiv.org/abs/2603.05344
+	- Building AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned
+
+
+
+
+
 ### AI Privacy / Anonymity
 - https://chat.openanonymity.ai | https://github.com/OpenAnonymity
 	- https://openanonymity.ai/blog/unlinkable-inference/
@@ -39,7 +60,6 @@
 	- Tips to make agents perform better
 - https://arxiv.org/abs/2602.11988
 	- Less is more
-	
 
 
 ### Agent Harnesses
@@ -85,6 +105,23 @@
 	- Is Agents.md really useful for coding agents?
 - https://arxiv.org/abs/2512.14982
 	- Just repeating the prompt can improve reasoning
+- https://arxiv.org/pdf/2503.13657
+	- Why do Multi-Agent LLM Systems Fail?
+	- They group the failures into 3 main buckets:
+		system design issues
+			- bad role/task specification
+			- step repetition
+			- loss of history
+			- unclear termination
+		inter-agent misalignment
+			- conversation resets
+			- not asking clarifying questions
+			- withholding/ignoring information
+			- task derailment
+			- reasoning/action mismatch
+		task verification failures
+			- stopping too early
+			- checking outputs only superficially
 	
 
 ### AI Startup Solutions
@@ -98,9 +135,13 @@
 	- Bunch of tools. Goal is to have knowledge of every possible tool
 - https://www.anthropic.com/research/building-ai-cyber-defenders
 - https://github.com/KeygraphHQ/shannon
-	- AI pen tester; actually hacks
+	- AI hacker / pentester
 - https://github.com/trailofbits/skills
 	- Security skills by trail of bits
+- https://pentera.io
+	- AI hacker / pentester
+- https://horizon3.ai/?utm_source=chatgpt.com
+	- AI hacker / pentester
 
 
 ### AI Skills
