@@ -604,29 +604,11 @@ http://globe.cid.harvard.edu/?mode=gridSphere&id=null
 - https://cloud.google.com/blog/products/identity-security/bringing-dark-web-intelligence-into-the-ai-era
 - https://alibaba.github.io/page-agent/docs/features/mcp-server/
 - https://blog.cloudflare.com/dynamic-workers/
-- https://www.newscientist.com/article/2519288-the-simple-questions-cracking-the-hard-problem-of-consciousness/
 - https://zapier.com/ai
 - https://huggingface.co/papers/2603.20278
-- https://www.tjrj.jus.br/
-- https://www.tjrj.jus.br/processo-eletronico/apresentacao
 - https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/
-- https://www3.tjrj.jus.br/PORTALEXTRAJUDICIAL/ConsultaSelo/Selo/Index
 - https://github.com/Crosstalk-Solutions/project-nomad
 - https://quad9.net/?utm_source=chatgpt.com
-- https://broddo.notato.menu/?utm_source=qrcode&utm_medium=table-check-in&utm_campaign=area-comum
-- https://www.popularmechanics.com/science/a70869700/psychedelics-reality-perception-research/
-- https://www.bbc.com/news/articles/c62jq8vlvp0o
-- https://siliconcanals.com/d-psychology-says-people-who-have-no-close-friends-arent-usually-socially-incompetent-they-have-a-pattern-recognition-ability-that-makes-small-talk-feel-like-cognitive-torture/
-- https://phys.org/news/2026-03-human-brain-critical.html
-- https://www.sciencealert.com/chernobyl-fungus-seems-to-have-evolved-an-incredible-ability#
-- https://www.macrumors.com/2026/03/29/biggest-iphone-overhaul-ever-rumor/
-- https://www.sciencedaily.com/releases/2026/03/260327211149.htm
-- https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/how-google-does-it-security-series/
-- https://www.iflscience.com/prehistoric-humans-may-have-interbred-with-two-separate-superarchaic-species-82990#
-- https://www.ft.com/content/7de1d3c5-0d0c-46b1-b2b7-dbf6f5226069?syn-25a6b1a6=1
-- https://www.tomshardware.com/pc-components/dram/microns-24-billion-singapore-fab-could-need-500-transformers
-- https://www.unige.ch/lettres/linguistique/collaborateurs/professeur-es-honoraires/shlonsky
-
 
 
 # TOOLS
